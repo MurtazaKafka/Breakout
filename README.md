@@ -1,17 +1,21 @@
 #Breakout Game
+
 A simple and fun Breakout game with a minimalist UI design.
 
 ##Features
+
 Clean and simple interface
 Intuitive controls
 Engaging and challenging gameplay
 Beautiful minimalist aesthetic
 
 ##Getting Started
+
 Clone or download the repository
 Open index.html in your web browser to play the game
 
 ##Built With
+
 React - The JavaScript library for building user interfaces
 HTML - The markup language for creating web pages
 CSS - The stylesheet language for describing the presentation of web pages
